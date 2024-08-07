@@ -36,22 +36,7 @@
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 }
 
-  {$I DynTFT_YellowCharcoalColors\DynTFTArrowButton_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTButton_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTCheckBox_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTEdit_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTItems_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTKeyButton_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTLabel_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTListBox_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTMessageBox_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTPanel_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTProgressBar_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTRadioButton_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTRadioGroup_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTScreen_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTScrollBar_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTTabButton_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTTrackBar_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTVirtualKeyboard_YellowCharcoalColors.inc}
-  {$I DynTFT_YellowCharcoalColors\DynTFTVirtualKeyboardX2_YellowCharcoalColors.inc}
+CL_DynTFTVirtualKeyboardX2_Border = CL_YELLOWCHARCOAL08;
+CL_DynTFTVirtualKeyboardX2_Background = CL_YELLOWCHARCOAL07;
+CL_DynTFTVirtualKeyboardX2_EnabledKeyDrawing = CL_YELLOWCHARCOAL13;
+CL_DynTFTVirtualKeyboardX2_DisabledKeyDrawing = CL_YELLOWCHARCOAL01;
