@@ -54,3 +54,5 @@
   {$I DynTFT_CharcoalColors\DynTFTTabButton_CharcoalColors.inc}
   {$I DynTFT_CharcoalColors\DynTFTTrackBar_CharcoalColors.inc}
   {$I DynTFT_CharcoalColors\DynTFTVirtualKeyboard_CharcoalColors.inc}
+  {$I DynTFT_CharcoalColors\DynTFTVirtualTable_CharcoalColors.inc}
+  {$I DynTFT_CharcoalColors\DynTFTVirtualKeyboardX2_CharcoalColors.inc}

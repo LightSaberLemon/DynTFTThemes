@@ -54,3 +54,5 @@
   {$I DynTFT_BlueCharcoalColors\DynTFTTabButton_BlueCharcoalColors.inc}
   {$I DynTFT_BlueCharcoalColors\DynTFTTrackBar_BlueCharcoalColors.inc}
   {$I DynTFT_BlueCharcoalColors\DynTFTVirtualKeyboard_BlueCharcoalColors.inc}
+  {$I DynTFT_BlueCharcoalColors\DynTFTVirtualTable_BlueCharcoalColors.inc}
+  {$I DynTFT_BlueCharcoalColors\DynTFTVirtualKeyboardX2_BlueCharcoalColors.inc}

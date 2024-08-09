@@ -54,3 +54,5 @@
   {$I DynTFT_CopperColors\DynTFTTabButton_CopperColors.inc}
   {$I DynTFT_CopperColors\DynTFTTrackBar_CopperColors.inc}
   {$I DynTFT_CopperColors\DynTFTVirtualKeyboard_CopperColors.inc}
+  {$I DynTFT_CopperColors\DynTFTVirtualTable_CopperColors.inc}
+  {$I DynTFT_CopperColors\DynTFTVirtualKeyboardX2_CopperColors.inc}
