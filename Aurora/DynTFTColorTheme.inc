@@ -54,3 +54,5 @@
   {$I DynTFT_AuroraColors\DynTFTTabButton_AuroraColors.inc}
   {$I DynTFT_AuroraColors\DynTFTTrackBar_AuroraColors.inc}
   {$I DynTFT_AuroraColors\DynTFTVirtualKeyboard_AuroraColors.inc}
+  {$I DynTFT_AuroraColors\DynTFTVirtualTable_AuroraColors.inc}
+  {$I DynTFT_AuroraColors\DynTFTVirtualKeyboardX2_AuroraColors.inc}

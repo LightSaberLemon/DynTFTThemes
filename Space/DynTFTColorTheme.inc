@@ -54,3 +54,5 @@
   {$I DynTFT_SpaceColors\DynTFTTabButton_SpaceColors.inc}
   {$I DynTFT_SpaceColors\DynTFTTrackBar_SpaceColors.inc}
   {$I DynTFT_SpaceColors\DynTFTVirtualKeyboard_SpaceColors.inc}
+  {$I DynTFT_SpaceColors\DynTFTVirtualTable_SpaceColors.inc}
+  {$I DynTFT_SpaceColors\DynTFTVirtualKeyboardX2_SpaceColors.inc}

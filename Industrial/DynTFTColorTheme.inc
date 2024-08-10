@@ -54,3 +54,5 @@
   {$I DynTFT_IndustrialColors\DynTFTTabButton_IndustrialColors.inc}
   {$I DynTFT_IndustrialColors\DynTFTTrackBar_IndustrialColors.inc}
   {$I DynTFT_IndustrialColors\DynTFTVirtualKeyboard_IndustrialColors.inc}
+  {$I DynTFT_IndustrialColors\DynTFTVirtualTable_IndustrialColors.inc}
+  {$I DynTFT_IndustrialColors\DynTFTVirtualKeyboardX2_IndustrialColors.inc}

@@ -54,3 +54,5 @@
   {$I DynTFT_SandColors\DynTFTTabButton_SandColors.inc}
   {$I DynTFT_SandColors\DynTFTTrackBar_SandColors.inc}
   {$I DynTFT_SandColors\DynTFTVirtualKeyboard_SandColors.inc}
+  {$I DynTFT_SandColors\DynTFTVirtualTable_SandColors.inc}
+  {$I DynTFT_SandColors\DynTFTVirtualKeyboardX2_SandColors.inc}

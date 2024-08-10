@@ -36,23 +36,4 @@
     OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 }
 
-  {$I DynTFT_OrchidColors\DynTFTArrowButton_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTButton_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTCheckBox_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTEdit_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTItems_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTKeyButton_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTLabel_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTListBox_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTMessageBox_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTPanel_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTProgressBar_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTRadioButton_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTRadioGroup_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTScreen_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTScrollBar_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTTabButton_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTTrackBar_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTVirtualKeyboard_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTVirtualTable_OrchidColors.inc}
-  {$I DynTFT_OrchidColors\DynTFTVirtualKeyboardX2_OrchidColors.inc}
+CL_DynTFTVirtualTable_Background = CL_SCREENBK;

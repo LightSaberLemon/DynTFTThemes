@@ -54,3 +54,5 @@
   {$I DynTFT_DawnColors\DynTFTTabButton_DawnColors.inc}
   {$I DynTFT_DawnColors\DynTFTTrackBar_DawnColors.inc}
   {$I DynTFT_DawnColors\DynTFTVirtualKeyboard_DawnColors.inc}
+  {$I DynTFT_DawnColors\DynTFTVirtualTable_DawnColors.inc}
+  {$I DynTFT_DawnColors\DynTFTVirtualKeyboardX2_DawnColors.inc}

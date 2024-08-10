@@ -54,3 +54,5 @@
   {$I DynTFT_VisionColors\DynTFTTabButton_VisionColors.inc}
   {$I DynTFT_VisionColors\DynTFTTrackBar_VisionColors.inc}
   {$I DynTFT_VisionColors\DynTFTVirtualKeyboard_VisionColors.inc}
+  {$I DynTFT_VisionColors\DynTFTVirtualTable_VisionColors.inc}
+  {$I DynTFT_VisionColors\DynTFTVirtualKeyboardX2_VisionColors.inc}

@@ -54,3 +54,5 @@
   {$I DynTFT_LavaColors\DynTFTTabButton_LavaColors.inc}
   {$I DynTFT_LavaColors\DynTFTTrackBar_LavaColors.inc}
   {$I DynTFT_LavaColors\DynTFTVirtualKeyboard_LavaColors.inc}
+  {$I DynTFT_LavaColors\DynTFTVirtualTable_LavaColors.inc}
+  {$I DynTFT_LavaColors\DynTFTVirtualKeyboardX2_LavaColors.inc}

@@ -54,3 +54,5 @@
   {$I DynTFT_OceanColors\DynTFTTabButton_OceanColors.inc}
   {$I DynTFT_OceanColors\DynTFTTrackBar_OceanColors.inc}
   {$I DynTFT_OceanColors\DynTFTVirtualKeyboard_OceanColors.inc}
+  {$I DynTFT_OceanColors\DynTFTVirtualTable_OceanColors.inc}
+  {$I DynTFT_OceanColors\DynTFTVirtualKeyboardX2_OceanColors.inc}

@@ -54,3 +54,5 @@
   {$I DynTFT_MatrixColors\DynTFTTabButton_MatrixColors.inc}
   {$I DynTFT_MatrixColors\DynTFTTrackBar_MatrixColors.inc}
   {$I DynTFT_MatrixColors\DynTFTVirtualKeyboard_MatrixColors.inc}
+  {$I DynTFT_MatrixColors\DynTFTVirtualTable_MatrixColors.inc}
+  {$I DynTFT_MatrixColors\DynTFTVirtualKeyboardX2_MatrixColors.inc}

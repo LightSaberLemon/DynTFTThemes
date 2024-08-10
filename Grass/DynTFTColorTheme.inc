@@ -54,3 +54,5 @@
   {$I DynTFT_GrassColors\DynTFTTabButton_GrassColors.inc}
   {$I DynTFT_GrassColors\DynTFTTrackBar_GrassColors.inc}
   {$I DynTFT_GrassColors\DynTFTVirtualKeyboard_GrassColors.inc}
+  {$I DynTFT_GrassColors\DynTFTVirtualTable_GrassColors.inc}
+  {$I DynTFT_GrassColors\DynTFTVirtualKeyboardX2_GrassColors.inc}
